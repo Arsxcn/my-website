@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  color: #222;
+  text-align: center;
+}
+header {
+  background: linear-gradient(135deg, #4A90E2, #9013FE);
+  color: white;
+  padding: 100px 20px;
+}
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  border-radius: 30px;
+  background: white;
+  color: #4A90E2;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.btn:hover {
+  background: #e3e3e3;
+}
+section {
+  padding: 60px 20px;
+}
+footer {
+  background: #222;
+  color: white;
+  padding: 20px;
+  margin-top: 40px;
+}
